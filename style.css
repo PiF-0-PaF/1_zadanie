@@ -1,0 +1,169 @@
+*{
+    background: #280137;
+}
+
+/* .moon_glow{
+
+} */
+
+.moon{
+    width: 170px;
+    height: 170px;
+    animation: moon 15s ease-in-out infinite;
+}
+
+@keyframes moon {
+    0%{
+        margin-left: 0%;
+    }
+
+    50%{
+        margin-left: 90%;
+    }
+
+    100%{
+        margin-left: 0%;
+    }
+
+}
+
+.star1{
+    width: 100px;
+    height: 100px;
+    animation: star1 10s ease-in-out infinite;
+}
+.star2{
+    width: 100px;
+    height: 100px;
+    animation: star2 8s ease-in-out infinite;
+}
+.star3{
+    width: 100px;
+    height: 100px;
+    animation: star3 6s ease-in-out infinite;
+}
+.star4{
+    width: 100px;
+    height: 100px;
+    animation: star4 4s ease-in-out infinite;
+}
+.star5{
+    width: 100px;
+    height: 100px;
+    animation: star5 11s ease-in-out infinite;
+}
+.star6{
+    width: 100px;
+    height: 100px;
+    animation: star6 15s ease-in-out infinite;
+}
+.star7{
+    width: 100px;
+    height: 100px;
+    animation: star7 16s ease-in-out infinite;
+}
+.star8{
+    width: 100px;
+    height: 100px;
+    animation: star8 9s ease-in-out infinite;
+}
+.star9{
+    width: 100px;
+    height: 100px;
+    animation: star9 5s ease-in-out infinite;
+}
+.star10{
+    width: 100px;
+    height: 100px;
+    animation: star10 18s ease-in-out infinite;
+}
+
+@keyframes star1 {
+    from {
+     opacity: 1;
+     }
+     to {
+      opacity: 0;
+     }
+}
+
+@keyframes star2 {
+    from {
+     opacity: 1;
+     }
+     to {
+      opacity: 0;
+     }
+}
+
+@keyframes star3 {
+    from {
+     opacity: 1;
+     }
+     to {
+      opacity: 0;
+     }
+}
+
+@keyframes star4 {
+    from {
+     opacity: 1;
+     }
+     to {
+      opacity: 0;
+     }
+}
+
+@keyframes star5 {
+    from {
+     opacity: 1;
+     }
+     to {
+      opacity: 0;
+     }
+}
+
+@keyframes star6 {
+    from {
+     opacity: 1;
+     }
+     to {
+      opacity: 0;
+     }
+}
+
+@keyframes star7 {
+    from {
+     opacity: 1;
+     }
+     to {
+      opacity: 0;
+     }
+}
+
+@keyframes star8 {
+    from {
+     opacity: 1;
+     }
+     to {
+      opacity: 0;
+     }
+}
+
+@keyframes star9 {
+    from {
+     opacity: 1;
+     }
+     to {
+      opacity: 0;
+     }
+}
+
+@keyframes star10 {
+    from {
+     opacity: 1;
+     }
+     to {
+      opacity: 0;
+     }
+}
